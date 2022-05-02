@@ -1,0 +1,7 @@
+https://github.com/3DSurfacing/64x32-RGB-LED-Matrix.git
+
+1.-1nstall the "RGB Matrix Panel" library from Arduino library manager or GitHub website.
+
+2.-Install the "Adafruit GFX" Library from Arduino library manager or GitHub website.
+
+3.-Install "Adafruit BusIO" from Arduino library manager or GitHub website.
